@@ -1,5 +1,7 @@
 package com.github;
 
 public class samet02 {
-    // yeni bir çalışma yapıldı
+    // bu çalışma eskidi
+
+    // başka bir çalışma
 }
