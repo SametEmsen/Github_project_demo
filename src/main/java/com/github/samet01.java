@@ -4,7 +4,7 @@ public class samet01 {
     // first commit
     // second commit
     // third commit
-    // fourth commit
+    //      buraya yeni girdi
     // fifth commit
     // sixth commit
     // seventh commit
