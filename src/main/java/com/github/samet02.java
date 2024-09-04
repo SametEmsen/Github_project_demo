@@ -4,4 +4,6 @@ public class samet02 {
     // bu çalışma eskidi
 
     // başka bir çalışma
+
+    // başka çalışma v5
 }
