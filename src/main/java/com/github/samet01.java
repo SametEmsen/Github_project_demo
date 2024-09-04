@@ -5,6 +5,8 @@ public class samet01 {
     // second commit
     // third commit
     //      buraya yeni girdi     daha da yeni
+
+    //      buraya yeni girdi    yepyeni
     // fifth commit
     // sixth commit
     // seventh commit
